@@ -1,0 +1,38 @@
+/* Utility Class */
+
+.boxHelper {
+  color: #fff;
+  border: 1px solid rgba(0,0,0,0.6);
+  text-align: center;
+}
+
+/* Utility Class End */
+
+* {
+  box-sizing: border-box;
+}
+
+header span {
+  font-weight: bold;
+  font-size: 1.6em;
+}
+
+h1 {
+  font-size: 1.4em;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+input[type="text"] {
+  font-size: 0.9em;
+  height: 0.9em;
+  margin-top: 40px;
+}
+
+button {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+
